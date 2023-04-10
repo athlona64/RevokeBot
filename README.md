@@ -4,7 +4,7 @@ This is programable to list all transactions on chain via etherscan provider and
 ## Installation
 
 ```bash
-https://github.com/athlona64/RevokeBot.git
+git clone https://github.com/athlona64/RevokeBot.git
 ```
 
 ```bash
